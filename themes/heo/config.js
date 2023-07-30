@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'ART',
   HERO_TITLE_4: 'Click here',
   HERO_TITLE_5: 'Check my resume',
-  HERO_TITLE_LINK: 'https://blog.tpinke.top/about',
+  HERO_TITLE_LINK: 'https://www.linkedin.com/in/tongdeqiang/',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: 'Programme', url: '/tag/Programme' },
@@ -35,7 +35,7 @@ const CONFIG = {
   //  '🤖️ 数码科技爱好者',
   //  '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://blog.tpinke.top/about', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://www.linkedin.com/in/tongdeqiang/', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
