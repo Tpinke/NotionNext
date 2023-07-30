@@ -67,8 +67,7 @@ function Banner(props) {
   return <div id='banners' onClick={handleClickBanner} className="hidden xl:flex xl:flex-col group h-full bg-white dark:bg-[#1e1e1e] rounded-xl border dark:border-gray-700 mb-3 relative overflow-hidden">
 
         <div id='banner-title' className='flex flex-col absolute top-10 left-10'>
-            <div className='text-4xl font-bold mb-3  dark:text-white'>{CONFIG.HERO_TITLE_1}<br />{CONFIG.HERO_TITLE_2}</div>
-            <div className='text-xs text-gray-600  dark:text-gray-200'>{CONFIG.HERO_TITLE_3}</div>
+            <div className='text-4xl font-bold mb-3  dark:text-white'>{CONFIG.HERO_TITLE_1}<br />{CONFIG.HERO_TITLE_2}<br />{CONFIG.HERO_TITLE_3}</div>
         </div>
 
         {/* 斜向滚动的图标 */}
