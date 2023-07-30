@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: 'Hi,Welcome to my little world', url: 'https://blog.tpinke.top' }
+    { title: 'Hi, Welcome to my little world', url: 'https://blog.tpinke.top' }
    //,{ title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -23,7 +23,7 @@ const CONFIG = {
   HERO_CATEGORY_3: { title: 'ART', url: '/tag/ART' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: '推荐',
+  HERO_RECOMMEND_POST_TAG: 'Programme',
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
