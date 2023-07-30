@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: 'Hi, Welcome to my little world', url: 'https://blog.tpinke.top' }
+    { title: 'Hi, Welcome to my little world', url: 'https://www.linkedin.com/in/tongdeqiang/' }
    //,{ title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
