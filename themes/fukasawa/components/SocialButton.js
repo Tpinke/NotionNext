@@ -18,7 +18,7 @@ const SocialButton = () => {
       {BLOG.CONTACT_TELEGRAM && <a target='_blank' rel='noreferrer' href={BLOG.CONTACT_TELEGRAM} title={'telegram'} >
         <i className='fab fa-telegram transform hover:scale-125 duration-150'/>
       </a>}
-      {BLOG.CONTACT_LINKEDIN && <a target='_blank' rel='noreferrer' href={BLOG.CONTACT_LINKEDIN} title={'linkedIn'} >
+      {BLOG.CONTACT_LINKEDIN && <a target='_blank' rel='noreferrer' title={'linkedIn'} href={BLOG.CONTACT_LINKEDIN}>
         <i className='fab fa-linkedin transform hover:scale-125 duration-150'/>
       </a>}
       {BLOG.CONTACT_WEIBO && <a target='_blank' rel='noreferrer' title={'weibo'} href={BLOG.CONTACT_WEIBO} >
